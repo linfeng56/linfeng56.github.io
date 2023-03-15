@@ -1,0 +1,6 @@
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: 生而平凡
+description: 没有神的光环,你我生而平凡
